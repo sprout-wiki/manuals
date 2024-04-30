@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/subpage_test1.md",
+                "file": "Untitled/automatic commit test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b52435105f88b453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dreamhack/Dreamhack Systemhacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbfba1b888afe346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dreamhack/Dreamhack Systemhacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2fbbbc0e73f5ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dreamhack/Systemhacking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/subpage_test1.md",
+                "file": "Dreamhack/Systemhacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/subpage_test1.md",
+                "file": "Dreamhack/Systemhacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/subpage_test1.md"
+                "file": "Dreamhack/Systemhacking.md"
               }
             }
           }
@@ -146,9 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c231b6d5e221054e",
+  "active": "b2fbbbc0e73f5ece",
   "lastOpenFiles": [
+    "Dreamhack/Dreamhack Systemhacking.md",
+    "Dreamhack/Systemhacking.md",
+    "Dreamhack/Untitled 1.md",
     "Untitled/automatic commit test.md",
+    "Dreamhack",
     "Untitled/subpage_test1.md",
     "Untitled/google.png",
     "Untitled/Pasted image 20240430113101.png",
