@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "automatic commit test.md",
+                "file": "Untitled/automatic commit test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "automatic commit test.md",
+                "file": "Untitled/automatic commit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "automatic commit test.md",
+                "file": "Untitled/automatic commit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "automatic commit test.md"
+                "file": "Untitled/automatic commit test.md"
               }
             }
           }
@@ -146,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03578d00e7a4acef",
+  "active": "807c481b960c6848",
   "lastOpenFiles": [
+    "Untitled",
     "README.md",
-    "automatic commit test.md"
+    "Untitled/automatic commit test.md"
   ]
 }
