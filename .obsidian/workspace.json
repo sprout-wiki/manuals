@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c231b6d5e221054e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/subpage_test1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/automatic commit test.md",
+                "file": "Untitled/subpage_test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/automatic commit test.md",
+                "file": "Untitled/subpage_test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/automatic commit test.md"
+                "file": "Untitled/subpage_test1.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "807c481b960c6848",
+  "active": "c231b6d5e221054e",
   "lastOpenFiles": [
+    "Untitled/automatic commit test.md",
+    "Untitled/subpage_test1.md",
     "Untitled",
-    "README.md",
-    "Untitled/automatic commit test.md"
+    "README.md"
   ]
 }
