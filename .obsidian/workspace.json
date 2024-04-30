@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03578d00e7a4acef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/automatic commit test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c231b6d5e221054e",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
