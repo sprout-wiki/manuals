@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1127185aed0e1ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_DGU/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b84c128638a9658b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_DGU/기말1 (2024-04-30).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dreamhack/Systemhacking.md",
+                "file": "2_DGU/기말1 (2024-04-30).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dreamhack/Systemhacking.md",
+                "file": "2_DGU/기말1 (2024-04-30).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dreamhack/Systemhacking.md"
+                "file": "2_DGU/기말1 (2024-04-30).md"
               }
             }
           }
@@ -183,10 +207,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2fbbbc0e73f5ece",
+  "active": "b84c128638a9658b",
   "lastOpenFiles": [
-    "Dreamhack/Dreamhack Systemhacking.md",
+    "2_DGU/융합프로그래밍2.md",
+    "2_DGU/기말1 (2024-04-30).md",
+    "2_DGU/Untitled 2.md",
+    "2_DGU/Untitled 1.md",
     "Dreamhack/Systemhacking.md",
+    "2_DGU",
+    "Dreamhack/Dreamhack Systemhacking.md",
     "Dreamhack/Untitled 1.md",
     "Untitled/automatic commit test.md",
     "Dreamhack",
