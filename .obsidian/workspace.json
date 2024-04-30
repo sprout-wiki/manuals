@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/automatic commit test.md",
+                "file": "Untitled/subpage_test1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/automatic commit test.md",
+                "file": "Untitled/subpage_test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/automatic commit test.md",
+                "file": "Untitled/subpage_test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/automatic commit test.md"
+                "file": "Untitled/subpage_test1.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "c231b6d5e221054e",
   "lastOpenFiles": [
-    "Untitled/google.png",
     "Untitled/automatic commit test.md",
+    "Untitled/google.png",
     "Untitled/subpage_test1.md",
     "Untitled",
     "README.md"
