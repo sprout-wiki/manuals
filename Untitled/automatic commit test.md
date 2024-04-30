@@ -2,5 +2,6 @@
 
 [info](subpage_test1.md)
 
-![[google.png]]
+![google](google.png)
+
 
