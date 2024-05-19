@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "3f05df00aeeb9b37",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ddd4150319f44e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0965073dd4bb98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_DGU/마이크로프로세서(김건욱)/기말 안내.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6532dfc3ddf6c319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_DGU/마이크로프로세서(김건욱)/기말 안내.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a01c4c9f89fec8de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_DGU/융합프로그래밍2/융합프로그래밍2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c7620629116278e",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ce9250caacdfe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "807c481b960c6848",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "930493d43bffaf35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a8cc15a4d2c9fa9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac6db48abd354f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "71c53a45e11bca8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88dfeeee4cd16f8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2_DGU/융합프로그래밍2/융합프로그래밍2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5bb2b29532090d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2_DGU/융합프로그래밍2/융합프로그래밍2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18013ffb6d6a8d04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2bda0cec8e934b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_DGU/융합프로그래밍2/융합프로그래밍2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "a01c4c9f89fec8de",
+  "lastOpenFiles": [
+    "3_Programming_Manuals/Unity/1_PlayerObject.md",
+    "2_DGU/융합프로그래밍2/final_exam/05-07 필기.md",
+    "2_DGU/융합프로그래밍2/융합프로그래밍2.md",
+    "2_DGU/융합프로그래밍2",
+    "2_DGU/Untitled 2.md",
+    "2_DGU/Untitled 1.md",
+    "2_DGU/마이크로프로세서(김건욱)/기말 안내.md",
+    "2_DGU/마이크로프로세서(김건욱)/과제 안내 (05-03).md",
+    "2_DGU/융합프로그래밍2/기말1 (2024-04-30).md",
+    "3_Programming_Manuals/Unity/Test.md",
+    "3_Programming_Manuals/Unity",
+    "Untitled/automatic commit test.md",
+    "2_DGU/마이크로프로세서(김건욱)",
+    "3_Programming_Manuals/Java/self initiation.md",
+    "3_Programming_Manuals/Java/하나의 파일, 하나의 public 클래스.md",
+    "3_Programming_Manuals/Springboot/Lombok.md",
+    "3_Programming_Manuals/Java",
+    "Hacking/Dreamhack Systemhacking.md",
+    "Hacking/Systemhacking.md",
+    "3_Programming_Manuals/React/React 개발환경 구축.md",
+    "3_Programming_Manuals/Javascript.md",
+    "3_Programming_Manuals/Springboot",
+    "3_Programming_Manuals/React/React.md",
+    "3_Programming_Manuals/React",
+    "3_Programming_Manuals/React/무제 파일 1.md",
+    "3_Programming_Manuals",
+    "Programming Manuals.md",
+    "3_React",
+    "2_DGU",
+    "Hacking/Untitled 1.md",
+    "Hacking",
+    "Untitled/subpage_test1.md",
+    "Untitled/google.png",
+    "Untitled/Pasted image 20240430113101.png",
+    "README.md"
+  ]
+}
