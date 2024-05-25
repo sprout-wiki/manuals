@@ -15,9 +15,6 @@ ENV sync_dir /sync_docker
 # 인터랙티브 대화 없이 패키지 설치
 ENV DEBIAN_FRONTEND=noninteractive
 
-# /sync_docker 디렉토리 소유권 변경
-RUN chown -R $USER /sync_docker
-
 # 카카오 미러 서버 설정 
 RUN \
 sed -i 's/kr.archive.ubuntu.com/mirror.kakao.com/g' /etc/apt/sources.list && \ 
@@ -32,6 +29,9 @@ RUN apt update \
 RUN useradd -ms /bin/bash $USER
 RUN echo $USER:$PASS | sudo chpasswd
 RUN usermod -aG sudo $USER
+
+# /sync_docker 디렉토리 소유권 변경
+RUN chown -R $USER /sync_docker
 
 # pwntools, pwndbg
 
