@@ -1,3 +1,4 @@
+docker command
 ```sh
 # unlimit core : segfault core dump 생성 허용
 docker run --ulimit core=-1 -dit -v "C:/Users/kyura/내 드라이브/sync_docker":/sync_docker ubuntu:latest
