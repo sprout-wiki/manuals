@@ -30,9 +30,6 @@ RUN useradd -ms /bin/bash $USER
 RUN echo $USER:$PASS | sudo chpasswd
 RUN usermod -aG sudo $USER
 
-# /sync_docker 디렉토리 소유권 변경
-RUN chown -R $USER /sync_docker
-
 # pwntools, pwndbg
 
 # pwndbg 필요 요구사항 설치를 위해 sudo에 비밀번호 없이 실행할 수 있도록 설정
