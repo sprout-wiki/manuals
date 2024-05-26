@@ -39,6 +39,8 @@ segfault -> corefile on `/var/lib/apport/coredump`
 >2) docker container 생성 시 corefile 을 생성하도록 허용
 >3) Host 에 생성된 corefile 을 docker container 에서 볼 수 있도록 directory bind
 
+>Windows Docker Desktop 에서는 coredump 생성을 지원하지 않음
+
 https://dev.to/mizutani/how-to-get-core-file-of-segmentation-fault-process-in-docker-22ii
 https://ddanilov.me/how-to-configure-core-dump-in-docker-container
 
