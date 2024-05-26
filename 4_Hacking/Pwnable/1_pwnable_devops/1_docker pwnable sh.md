@@ -1,6 +1,11 @@
 docker run
 ```shell
-docker run --ulimit core=-1 -dit -v "C:/Users/kyura/내 드라이브/sync_docker":/sync_docker 88sprout/pwncontainer:latest
+docker run -dit --ulimit core=-1 --mount type=bind,source="C:/Users/kyura/내 드라이브/sync_docker",target=/sync_docker 88sprout/pwncontainer:latest
+
+```
+
+```plain
+--mount type=bind,source=/tmp/,target=/tmp/ application:latest
 ```
 
 dockerfile
