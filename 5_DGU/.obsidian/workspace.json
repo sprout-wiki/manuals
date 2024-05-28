@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "ab44dacd01da29f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8931143e49b04f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f448eb5bb5942c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "905c8d050b00e963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1557a258aaab109",
+    "type": "split",
+    "children": [
+      {
+        "id": "5307081719f3eedb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3f0bfdde5f4bf72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cf0c80a65005212",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ce2b0c275d02d1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10b29d1d357fe562",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbad34935941220d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff6af2f8c2a81cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "107e7071bea65cbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3ece6ccbd931b95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "066022276a58fc0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e3f0bfdde5f4bf72",
+  "lastOpenFiles": [
+    "융합프로그래밍2/기말범위(gui,파일처리)/기말_실습",
+    "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력",
+    "무제 폴더",
+    "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md",
+    "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md",
+    "융합프로그래밍2/기말범위(gui,파일처리)/기말_실습/실습0509 - mouse click random C.md",
+    "융합프로그래밍2/기말범위(gui,파일처리)/융합프로그래밍2.md",
+    "융합프로그래밍2/기말범위(gui,파일처리)"
+  ]
+}

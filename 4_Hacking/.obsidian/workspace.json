@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "770963286426f2df",
+    "type": "split",
+    "children": [
+      {
+        "id": "791faa99d7e80eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "706e20667546910e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pwnable/2_pwnable_toolings/pwntools/3_run_assembly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2fc977e0687c61d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pwnable/2_pwnable_toolings/pwntools/3_run_assembly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b24b1e0ba0b4e221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pwnable/2_pwnable_toolings/pwntools/4_pack_and_unpack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fd350d46a37c13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pwnable/2_pwnable_toolings/pwntools/4_pack_and_unpack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65cc045dea38a71d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5e1176c60e2d6ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "896c8af3c3cff382",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5e1029a8c43f232",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebcbc7d88a00aac2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "9e35578f5369d121",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c19b87a2fd2594",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a24df66670a5839",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pwnable/2_pwnable_toolings/pwntools/4_pack_and_unpack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a90097b2a880f890",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pwnable/2_pwnable_toolings/pwntools/4_pack_and_unpack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78348073b6765d08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "716838ca362c1e47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pwnable/2_pwnable_toolings/pwntools/4_pack_and_unpack.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3fd350d46a37c13e",
+  "lastOpenFiles": [
+    "Pwnable/2_pwnable_toolings/pwntools/3_run_assembly.md",
+    "Pwnable/2_pwnable_toolings/pwntools/4_pack_and_unpack.md",
+    "Pwnable/2_pwnable_toolings/pwntools/1_shellcraft.md",
+    "Pwnable/Dreamhack notes/Learning_Courses/2_systemhacking/1_shell_basic.md",
+    "Pwnable/Dreamhack notes/Learning_Courses/2_systemhacking/return address overwrite.md",
+    "Pwnable/2_pwnable_toolings/nasm",
+    "Pwnable/2_pwnable_toolings/pwntools/1_hex.md",
+    "Pwnable/1_pwnable_devops/3_docker_corefile.md",
+    "Pwnable/1_pwnable_devops/2_ubuntu pwnable container.md",
+    "Pwnable/1_pwnable_devops/1_docker pwnable sh.md",
+    "Pwnable/2_pwnable_toolings/pwntools"
+  ]
+}
