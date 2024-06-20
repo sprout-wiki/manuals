@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b8931143e49b04f0",
+        "id": "f6c77a9873dfd4ed",
         "type": "tabs",
         "children": [
           {
-            "id": "f448eb5bb5942c6e",
+            "id": "8ea0d7e229232a90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "905c8d050b00e963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d804051270955fa8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,13 +138,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d804051270955fa8",
+  "active": "8ea0d7e229232a90",
   "lastOpenFiles": [
+    "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md",
+    "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md",
     "융합프로그래밍2/기말범위(gui,파일처리)/기말_실습",
     "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력",
     "무제 폴더",
-    "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md",
-    "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md",
     "융합프로그래밍2/기말범위(gui,파일처리)/기말_실습/실습0509 - mouse click random C.md",
     "융합프로그래밍2/기말범위(gui,파일처리)/융합프로그래밍2.md",
     "융합프로그래밍2/기말범위(gui,파일처리)"
