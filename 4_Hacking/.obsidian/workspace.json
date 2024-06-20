@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da5fd610351774c4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3fd350d46a37c13e",
+  "active": "da5fd610351774c4",
   "lastOpenFiles": [
     "Pwnable/2_pwnable_toolings/pwntools/3_run_assembly.md",
     "Pwnable/2_pwnable_toolings/pwntools/4_pack_and_unpack.md",

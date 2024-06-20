@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d804051270955fa8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md",
+                "file": "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md",
+                "file": "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력/1_입출력스트림.md"
+                "file": "융합프로그래밍2/기말범위(gui,파일처리)/final_exam/기말안내1 (2024-04-30).md"
               }
             }
           }
@@ -159,7 +169,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e3f0bfdde5f4bf72",
+  "active": "d804051270955fa8",
   "lastOpenFiles": [
     "융합프로그래밍2/기말범위(gui,파일처리)/기말_실습",
     "융합프로그래밍2/기말범위(gui,파일처리)/2_파일입출력",
