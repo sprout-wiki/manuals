@@ -39,3 +39,6 @@ build 후, demo/src/main/java/com.example.demo/DemoApplication 의 main 함수�
 
 HTTP 404 에러면 실패, white label error 가 출력되면 성공
 ![](images/5_spring-whitelabel-success.png)
+
+아래와 같이 404 면 실패
+![](images/6_spring-404-fail.png)
